@@ -1,4 +1,6 @@
 # brush-beans-ui
+### 技术栈vue2, 可获取刷豆数据
+
 
 ## Project setup
 ```
